@@ -1,1 +1,1 @@
-# CoquetteTyper
+A simple typing game using HTML, CSS, and Javascript, where players can improve typing speed and skills. The game tracks words per minute and detects mispelled words so user can go back and correct such words.
